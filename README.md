@@ -62,7 +62,7 @@ Aplikazioa **fitxategi bakarreko arkitekturan** dago garatuta (HTML/CSS/JS purua
 
 ---
 
-## 🇪🇸 Español
+## 🇪🇸 Castellano
 
 ### Características principales
 
